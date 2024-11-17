@@ -26,7 +26,7 @@ Highly motivated and results-oriented DevOps Engineer with 10+ years of experien
 * **Spearheaded containerization research**, identifying use cases for Kubernetes and service meshes for global engineering teams.
 * Developed **reusable IaC templates** for infrastructure provisioning across various cloud platforms, enabling efficient cloud migration.
 * Led global forums to **standardize DevOps practices and toolchains**, promoting adoption and streamlining operations.
-* **Utilized Azure DevOps** to streamline CI/CD pipelines and improve collaboration within development teams.
+* **Utilized Azure DevOps** to streamline work and CI/CD pipelines and improve collaboration within development teams.
 
 ### DevOps Consultant (Contract) | Loud-Hailer | 2019-2020
 * Migrated existing infrastructure to AWS using Terraform, achieving a **72% reduction in monthly cloud costs** through optimized resource utilization.

@@ -35,8 +35,7 @@ Highly motivated and results-oriented DevOps Engineer with 10+ years of experien
 
 ### Open-Source Solutions and Enterprise Architect | Large NYS Agency | 2015-2019
 * Replaced legacy monitoring infrastructure with Zabbix, saving $1 million annually in vendor and support costs.
-* Championed IaC adoption with GitLab and Ansible and PowerShell playbooks, streamlining infrastructure management and eliminating technical debt.
-* Integrated Sysdig into the monitoring stack for advanced security and performance analysis.
+* Championed IaC adoption with Ansible, Python and PowerShell, streamlining infrastructure management and eliminating technical debt.
 
 **Certifications**
 
@@ -44,6 +43,7 @@ Highly motivated and results-oriented DevOps Engineer with 10+ years of experien
 * AWS Developer Associate - 2022
 * Terraform Certified Cloud Engineer - 2022
 * Azure Fundamentals - 2022
+* AWS Architect Associate - 2019
 * Zabbix Specialist and Professional - 2019
 
 **Education**
