@@ -3,7 +3,7 @@
 
 **Summary**
 
-Highly motivated and results-oriented DevOps Engineer with 10+ years of experience in public and private cloud environments, Infrastructure as Code (IaC), Kubernetes, and automation. Proven ability to deliver efficient solutions and optimize workflows through collaboration and technical expertise. Excellent trainer and coach, seeking a contract role to leverage my skills and drive operational excellence.
+Highly motivated and results-oriented DevOps Engineer with 10+ years of experience in public and private cloud environments, Infrastructure as Code (IaC), Kubernetes, and automation. Proven ability to deliver efficient solutions and optimize workflows through collaboration and technical expertise. Excellent trainer and coach, seeking a remote contract role to leverage my skills and drive operational excellence.
 
 **Skills**
 
