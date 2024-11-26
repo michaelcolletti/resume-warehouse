@@ -25,8 +25,7 @@ jobs:
         run: |
           pip install mkdocs mkdocs-material
 
-      - name: Build  
- the Documentation
+      - name: Build the Documentation
         run: mkdocs build
 
       - name: Deploy to GitHub Pages
