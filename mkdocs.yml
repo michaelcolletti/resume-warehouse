@@ -27,5 +27,6 @@ theme:
     include_sidebar: true
 nav:
   - Home: README.md
-#  - Docs: docs.md
-#  - Project: project.md
+  - Contract: ContractResume.md
+  - FTE: FullTimeResume.md
+  - Projects: Projects.md
