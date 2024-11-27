@@ -14,7 +14,7 @@ jobs:
       - name: Copy Resume Markdown Files
         run: |
           #mkdir -p   # Create the "docs" folder in mkdocs
-          cp *.md   # Copy all .md files from main to mkdocs/docs
+          cp *.md .  # Copy all .md files from main to mkdocs/docs
 
       - name: Set up Python
         uses: actions/setup-python@v4
