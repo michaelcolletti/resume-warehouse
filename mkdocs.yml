@@ -29,4 +29,4 @@ nav:
   - Home: README.md
   - Contract: ContractResume.md
   - FTE: FullTimeResume.md
-  - Projects: Projects.md
+#   - Projects: Projects.md
