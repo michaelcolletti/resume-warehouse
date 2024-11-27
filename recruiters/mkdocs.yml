@@ -1,0 +1,32 @@
+site_name: Michael Colletti 
+site_author: Michael Colletti 
+copyright: Creative Possibilities Inc. 2024
+remote_name: 
+site_description: For Creating Resumes using Github
+repo_url: https://github.com/michaelcolletti/resume-warehouse
+repo_name: resume-warehouse
+edit_uri: '?query=/docs'
+# extra_javascript:
+#   - custom/custom.js
+
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+        - json
+        - python
+    locale: en
+#    custom_dir: custom
+    nav_style: dark
+#    color_scheme: 
+#    static_templates:
+#        - sitemap.html
+    include_sidebar: true
+nav:
+  - Home: README.md
+  - Contract: ContractResume.md
+  - FTE: FullTimeResume.md
+  - Project: Project.md
