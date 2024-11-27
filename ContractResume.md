@@ -1,11 +1,15 @@
-# Michael Colletti
-## DevOps Engineer 
+# Michael Colletti 🚀
+## Contract Enterprise Automation Architect
 
-**Summary**
+---
+
+📄 **Summary**
 
 Highly motivated and results-oriented DevOps Engineer with 10+ years of experience in public and private cloud environments, Infrastructure as Code (IaC), Kubernetes, and automation. Proven ability to deliver efficient solutions and optimize workflows through collaboration and technical expertise. Excellent trainer and coach, seeking a remote contract role to leverage my skills and drive operational excellence.
 
-**Skills**
+---
+
+🛠️ **Skills**
 
 * **Cloud Platforms:** AWS, GCP, Azure
 * **Infrastructure as Code:** Terraform (HashiCorp Certified Cloud Engineer), Pulumi
@@ -13,12 +17,14 @@ Highly motivated and results-oriented DevOps Engineer with 10+ years of experien
 * **CI/CD Pipelines:** Jenkins, GitOps, Azure DevOps
 * **Observability and Monitoring:** Prometheus, Grafana, Zabbix, Sysdig, Tivoli ITM
 * **Scripting:** Python, Bash, Powershell
-* **Automation:** Terraform, Ansible, AWS Cloudformation &CDK
+* **Automation:** Terraform, Ansible, AWS Cloudformation & CDK
 
-**Experience**
+---
+
+💼 **Experience**
 
 ### DevOps Architect | Container Engineering (Contract) | Kaiser Permanente | 2023-2024
-* **20% developer productivity increase** by containerizing and automating complex infrastructure provisioning and deployment pipelines using Git, OpenShift, and Jenkins. 
+* **20% developer productivity increase** by containerizing and automating complex infrastructure provisioning and deployment pipelines using Git, OpenShift, and Jenkins.
 * Offered DevOps mentorship and facilitated **monolith to microservice migration** for devs and key applications.
 * **Leveraged Sysdig** for advanced security and performance monitoring, identifying and resolving potential issues proactively.
 
@@ -37,7 +43,9 @@ Highly motivated and results-oriented DevOps Engineer with 10+ years of experien
 * Replaced legacy monitoring infrastructure with Zabbix, saving **$1 million annually** in vendor and support costs.
 * Championed IaC adoption with GitLab and Ansible playbooks, streamlining infrastructure management and eliminating technical debt.
 
-**Certifications**
+---
+
+🎓 **Certifications**
 
 * Google Certified Professional Cloud Architect (ACE) - 2023
 * AWS Developer Associate - 2022
@@ -45,6 +53,10 @@ Highly motivated and results-oriented DevOps Engineer with 10+ years of experien
 * Azure Fundamentals - 2022
 * Zabbix Specialist and Professional - 2019
 
-**Education**
+---
+
+🎓 **Education**
 
 * Bachelor of Arts: Sociology and Anthropology, SUNY Purchase (Magna Cum Laude)
+
+---
