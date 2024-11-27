@@ -27,9 +27,13 @@ jobs:
 
       - name: Build the Documentation
         run: mkdocs build
-
+        
+      - name: Inject Secrets
+        run: echo "${{ secrets.DEPLOY_SECRET }}" > secret.txt
+        
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: site
+          token: ${{ secrets.DEPLOY_SECRET }}
