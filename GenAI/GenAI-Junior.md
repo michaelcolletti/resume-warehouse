@@ -1,5 +1,5 @@
-# Michael Colletti
-## DevOps Engineer
+# NewHire McGee
+## Junior AI Engineer
 
 **Summary**
 
