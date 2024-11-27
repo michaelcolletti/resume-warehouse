@@ -2,6 +2,8 @@
 
 ![Awesome](https://img.shields.io/badge/Awesome-README-blue.svg)
 
+[GitHub Pages Version using Mkdocs: Resumes as Code](https://michaelcolletti.github.io/resume-warehouse/)
+
 ## 🚀 Overview
 
 Welcome to Michael's Resumes and Projects repository! This repository showcases my professional journey, skills, and projects in a unique and interactive way.
