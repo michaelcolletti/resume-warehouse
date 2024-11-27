@@ -19,7 +19,7 @@ theme:
         - json
         - python
     locale: en
-    custom_dir: custom
+#    custom_dir: custom
     nav_style: dark
 #    color_scheme: 
 #    static_templates:
