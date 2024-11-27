@@ -1,4 +1,4 @@
-![Michael Colletti](http://michaelcolletti.com/profile-pic.jpg)  
+![Michael Colletti](img/profile-pic.jpg)  
 # Michael Colletti
 ## 🚀 DevOps Engineer
 
