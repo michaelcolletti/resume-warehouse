@@ -49,5 +49,4 @@ Highly motivated and results-oriented DevOps Engineer with 10+ years of experien
 
 **🎓 Education**
 
-* Bachelor of Arts: Sociology and Anthropology, SUNY Purchase (Magna Cum Laude) Michael Colletti
-
+* Bachelor of Arts: Sociology and Anthropology, SUNY Purchase (Magna Cum Laude) 
