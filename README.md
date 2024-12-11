@@ -25,7 +25,7 @@ Here are some of the projects I've worked and am working on:
 
 ## 📫 Contact
 
-Feel free to reach out to me via [linktr.ee/michaelcolletti](linktr.ee/michaelcolletti) or connect with me on [LinkedIn](https://www.linkedin.com/in/michaelgcolletti) or via [Email]((mailto:michael@cpossibilities.com).
+Feel free to reach out to me via [linktr.ee/michaelcolletti](linktr.ee/michaelcolletti) or connect with me on [LinkedIn](https://www.linkedin.com/in/michaelgcolletti) or via [Email](mailto:michael@cpossibilities.com).
 
 ---
 
