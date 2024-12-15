@@ -15,7 +15,8 @@ jobs:
         run: |
             mkdir -p docs  # Create the "docs" folder in mkdocs
             cp *.md docs  # Copy all .md files from main to mkdocs/docs
-
+            cp mkdocs.yml docs/ # copy the mkdocs config 
+            
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
