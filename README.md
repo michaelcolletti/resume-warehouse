@@ -18,17 +18,18 @@ In this section, you'll find my resumes presented as code. By leveraging the pow
 
 Here are some of the projects I've worked and am working on:
 
-- **Project Lomax**: Project Lomax delivers on John and Alan Lomax's vision.
-- **Project Sonify**: Sonify all the things.
-- **Project DomainLookUp**: Utility for Domians.
+- **Project Lomax aka LomaxesEverywhere**: Project Lomax delivers on John and Alan Lomax's vision allowing all to become their groups Lomax. Using LLMS to persist disappearing languages and cultures, whilst keeping data private and secure. 
+- **Project Sonify**: Sonify all the things. We are sonic creatures.
+- **Project DomainLookUp**: Utility for Domians lookup.
+- **Layer** A Migration Platform for any type of Metadata
 - **Project AllMyAllergies.com**: Create your very own static website based on your food sensitivities and deploy on our platform 
 
 ## 📫 Contact
 
-Feel free to reach out to me via [linktr.ee/michaelcolletti](linktr.ee/michaelcolletti) or connect with me on [LinkedIn](https://www.linkedin.com/in/michaelgcolletti) or via [Email](mailto:michael@cpossibilities.com).
+You can reach out to me via my websites [CPI](https://cpossibilities.com), [Personal](http://michaelcolletti.com), [LinkTree](https://linktr.ee/michaelcolletti). Also connect with me on [LinkedIn](https://www.linkedin.com/in/michaelgcolletti) or via [Email](mailto:devnullid+github@gmail.com).
 
 ---
 
-Thank you for visiting my repository! I hope you find my work interesting and inspiring.
+Thank you for visiting my repository! I hope you find my work interesting and look forward to meeting you. 
 
 ![GitHub](https://img.shields.io/github/followers/michaelcolletti?style=social)
