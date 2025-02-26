@@ -1,7 +1,7 @@
 # Michael's Resumes and Projects
 
 ![Awesome](https://img.shields.io/badge/Awesome-README-blue.svg)
-[![Deploy Resume to GitHub Pages](https://github.com/michaelcolletti/resume-warehouse/actions/workflows/deploy-resume2MD.yml/badge.svg?branch=gh-pages)](https://github.com/michaelcolletti/resume-warehouse/actions/workflows/deploy-resume2MD.yml)
+[![Deploy Resume to GitHub Pages](https://github.com/michaelcolletti/resume-warehouse/actions/workflows/deploy-resume2MD.yml/badge.svg?branch=main)](https://github.com/michaelcolletti/resume-warehouse/actions/workflows/deploy-resume2MD.yml)
 
 
 [GitHub Pages Version using Mkdocs: Resumes as Code](https://michaelcolletti.github.io/resume-warehouse/)
