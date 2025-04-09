@@ -16,7 +16,7 @@ Highly motivated and results-oriented DevOps Engineer with 10+ years of experien
 * **Containers and Orchestration:** Docker, Kubernetes, OCP
 * **CI/CD Pipelines:** Jenkins, GitOps, Azure DevOps
 * **Observability and Monitoring:** Prometheus, Grafana, Zabbix, Sysdig, Tivoli ITM
-* **Scripting:** Python, Bash, Powershell
+* **Coding:** Python, Rust, Bash, Powershell
 * **Automation:** Terraform, Ansible, AWS Cloudformation & CDK
 
 ---
